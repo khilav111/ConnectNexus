@@ -1,7 +1,7 @@
-💬 Neon Nexus – Real-Time Chat Application
+💬 ConnectNexus – Real-Time Chat Application
 
 
-Neon Nexus is a real-time chat application that supports instant messaging for both private (one-to-one) and group conversations. Built with modern web technologies, it enables seamless communication with real-time updates, user authentication, and group chat management.
+ConnectNexus is a real-time chat application that supports instant messaging for both private (one-to-one) and group conversations. Built with modern web technologies, it enables seamless communication with real-time updates, user authentication, and group chat management.
 
 🧰 Tech Stack
 Frontend: React.js
@@ -61,13 +61,13 @@ MongoDB Atlas or local MongoDB
 
 A JWT secret key (process.env.JWT_SECRET)
 
-📦 Cloning and Running Neon Nexus
+📦 Cloning and Running ConnectNexus
 bash
 Copy
 Edit
 # Clone the repository
-```git clone https://github.com/your-username/neon-nexus.git
-cd neon-nexus
+```git clone https://github.com/khilav111/ConnectNexus
+cd ConnectNexus
 
 # Install backend dependencies
 cd backend
